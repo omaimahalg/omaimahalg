@@ -12,7 +12,7 @@
 
 ### 🧾 About
 
-B.Sc. Statistics, **King Abdulaziz University** · **4.95/5 GPA** (2026)
+B.Sc. Hons. Statistics, **King Abdulaziz University** · **4.95/5 GPA** (2026)
 
 An academic at heart, interested in using statistical research to understand, improve, and solve problems in the real world, particularly where **academia meets industry**.
 
