@@ -5,12 +5,12 @@
 <h2 align="center">Turning data into understanding,<br>and research into something that can be used.</h2>
 
 <p align="center">
-  Statistics Graduate · Bayesian & Computational Statistics · Statistical Modeling
+  Statistics Graduate · Bayesian Computational Statistics · Statistical Modeling
 </p>
 
 ---
 
-### 🧮 About
+### 🧾 About
 
 Recent Statistics graduate from **King Abdulaziz University** · **4.95/5 GPA**
 
@@ -21,23 +21,23 @@ I work with statistical modeling, data mining, forecasting, and Bayesian methods
 > *A statistician's playground, with a programmer's toolkit.*
 
 
-### 🛠️ Programs
+### 🖥️ Programs
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=r,python,matlab,latex,windows&theme=dark" height="55"/> </p> <p align="center"> 
 
 
-### 🔬 Interested in
+### 💭 Interested In
 
 `Bayesian Statistics` · `Computational Statistics` · `Statistical Learning` · `Data Mining` · `Forecasting` · `Applied Research`
 
 
-### 📚 Currently building
+### 🔎 Currently
 
-Research · Reproducible analysis · Statistical computing · GitHub
+Research · Reproducible analysis · Programming · GitHub
 
  > *Curious about the data. Curious about the model. Curious about what we can do with it.*
 
-### 🤝 Open to Collaboration
+### 🖱️ Lets Connect 
 
 Some of the best research happens at the seams between fields, that's what draws me to interdisciplinary work. If your problem needs a statistical lens, let's talk.
  
