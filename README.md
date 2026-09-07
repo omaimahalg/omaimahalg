@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </p>
-# <img src="https://i.giphy.com/uGkXpJfiBTKE0.webp"/>
+<!-- <img src="https://i.giphy.com/uGkXpJfiBTKE0.webp"/>
