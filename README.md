@@ -8,7 +8,7 @@
   Statistics Graduate · Data Scientist 
 </p>
 
----
+
 
 ### 🧾 About
 
