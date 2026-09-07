@@ -5,7 +5,7 @@
 <h2 align="center">Turning data into understanding,<br>and research into something that can be used.</h2>
 
 <p align="center">
-  Statistics Graduate · Bayesian Computational Statistics · Statistical Modeling
+  Statistics Graduate · Data Scientist 
 </p>
 
 ---
